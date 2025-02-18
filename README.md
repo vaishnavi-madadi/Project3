@@ -11,27 +11,27 @@ Objective - The main objective of this project is to use e-commerce transactiona
 
 About the Data - 
 The data used for this analysis comes from multiple sources related to transactions, orders, payments, locations, customers, sellers, products, and their categories. The data includes metrics such as:
-Transaction Details: Order IDs, product IDs, transaction amounts.
-Customer Information: Customer IDs, acquisition dates, engagement levels.
-Seller Information: Seller IDs, performance metrics.
-Product Details: Product IDs, sales data, product categories.
-Payment Data: Payment methods, transaction time.
+1. Transaction Details: Order IDs, product IDs, transaction amounts.
+2. Customer Information: Customer IDs, acquisition dates, engagement levels.
+3. Seller Information: Seller IDs, performance metrics.
+4. Product Details: Product IDs, sales data, product categories.
+5. Payment Data: Payment methods, transaction time.
 The data is cleaned, transformed, and pre-processed to ensure high quality and ready for analysis.
 
 Features Used - Key features used for analysis include:
-Customer Metrics: Customer acquisition date, lifetime value, engagement rate, satisfaction scores.
-Product Metrics: Product sales, category, pricing, quantity sold.
-Seller Metrics: Seller performance, ratings, product availability.
-Transaction Metrics: Transaction date, order amount, payment method.
-Location Data: Customer/seller locations, shipping data.
+1. Customer Metrics: Customer acquisition date, lifetime value, engagement rate, satisfaction scores.
+2. Product Metrics: Product sales, category, pricing, quantity sold.
+3. Seller Metrics: Seller performance, ratings, product availability.
+4. Transaction Metrics: Transaction date, order amount, payment method.
+5. Location Data: Customer/seller locations, shipping data.
 
 Approach Used - 
-Data Preprocessing: Cleaned and transformed raw datasets, handled missing values, and ensured data consistency across multiple sources.
-Exploratory Data Analysis (EDA): Performed high-level analysis to understand basic trends, top-performing products, customer retention, etc.
-Segmentation: Segmented customers and sellers based on various performance metrics using clustering techniques.
-Cross-Selling: Identified products that are frequently bought together to find cross-selling opportunities.
-Trend Analysis: Analyzed the seasonality and trends in sales by product category, time of day, and more.
-Customer Satisfaction Analysis: Measured customer satisfaction for different categories and products to understand pain points and areas for improvement.
+1. Data Preprocessing: Cleaned and transformed raw datasets, handled missing values, and ensured data consistency across multiple sources.
+2. Exploratory Data Analysis (EDA): Performed high-level analysis to understand basic trends, top-performing products, customer retention, etc.
+3. Segmentation: Segmented customers and sellers based on various performance metrics using clustering techniques.
+4. Cross-Selling: Identified products that are frequently bought together to find cross-selling opportunities.
+5. Trend Analysis: Analyzed the seasonality and trends in sales by product category, time of day, and more.
+6. Customer Satisfaction Analysis: Measured customer satisfaction for different categories and products to understand pain points and areas for improvement.
 
 Questions Explored - 
 1. Which product categories are performing the best in terms of sales?
@@ -57,7 +57,11 @@ These visualizations helped to uncover patterns and trends that would not be imm
 
 Business or Strategic Implications - 
 Product Optimization: The analysis can help the company identify high-performing products that need more marketing and underperforming products that require improvement or discounting.
+
 Customer Engagement: By understanding customer retention trends and segmentation, the company can better target high-value customers for promotions and engagement.
+
 Sales Forecasting: Identifying seasonality patterns enables more accurate sales forecasting and inventory management.
+
 Cross-Selling Strategies: The cross-selling analysis allows the company to design targeted promotions to increase average order values by recommending frequently bought-together products.
+
 Payment Strategy: Understanding payment behavior helps the company optimize payment options for higher customer satisfaction and smoother transactions.
