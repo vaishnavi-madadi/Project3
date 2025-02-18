@@ -41,12 +41,12 @@ Questions Explored -
 5. What are the payment behavior trends and customer satisfaction levels?
 
 Key Findings & Insights - 
-Top-Performing Products: [List top products based on sales, category, or other metrics].
-Customer Retention: Found that customer retention improved during [season/month], suggesting a potential time for customer engagement strategies.
-Segment Insights: Identified high-value customer segments, including [segment name] who are more likely to purchase [product type/category].
-Cross-Selling: Certain products, like [product A] and [product B], are frequently bought together, offering opportunities for targeted promotions.
-Seasonality: Sales tend to peak during [specific time period], with certain product categories seeing higher demand during [specific month or day].
-Payment Behavior: [Payment method A] is preferred over [payment method B], and most payments are processed during [time of day].
+1. Top-Performing Products: [List top products based on sales, category, or other metrics].
+2. Customer Retention: Found that customer retention improved during [season/month], suggesting a potential time for customer engagement strategies.
+3. Segment Insights: Identified high-value customer segments, including [segment name] who are more likely to purchase [product type/category].
+4. Cross-Selling: Certain products, like [product A] and [product B], are frequently bought together, offering opportunities for targeted promotions.
+5. Seasonality: Sales tend to peak during [specific time period], with certain product categories seeing higher demand during [specific month or day].
+6. Payment Behavior: [Payment method A] is preferred over [payment method B], and most payments are processed during [time of day].
 
 Visualizations - Several visualizations were created to better understand the data, including:
 Bar charts for top-performing products and categories.
